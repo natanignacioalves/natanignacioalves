@@ -14,6 +14,7 @@
   <img align="center" alt="git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">&nbsp;
   <img align="center" alt="github" height="30" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png">&nbsp;
   <img align="center" alt="vscode" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">&nbsp;
+  <img align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
  
  <br>
